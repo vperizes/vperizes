@@ -1,8 +1,7 @@
 # Hi, I’m Victoria Perizes
-- 🎮 I made games for doctors and astronauts for over 5 years 
-- 👩🏼‍🎓 I’m pursuing a career change from biomedical engineering to software engineering
-- 👀 Interested in web development and graphics engineering
-- 📖 Currently playing with fastAPI and python
+- Currently a sofware engineer at Peripio Health 🩺 working on health data visualization and mobile app development
+- 🎮 I made games for doctors and astronauts for over 5 years
+- Lightly dabbling in graphics engineering and machine learning 
 
 <!---
 vperizes/vperizes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
